@@ -1,5 +1,5 @@
 # CP11
-12/6/2021
+## 12/6/2021
 
 Binary Input/Output
 
@@ -44,3 +44,6 @@ ObjectInputStream/ObjectOutputStream
 _Can read/write entire objects in one call
 _Read/write is recursive
 +If an object contains references to other objects – they are read/written, too
+
+## 8/12/21
+Exam questions
